@@ -10,7 +10,7 @@ int main(){
     scanf("%d",&size);
     int arr[size];
     for(int i=0;i<size;i++){
-        printf(" enetr the array at position %d :",i);
+        printf(" enter the array at position %d :",i);
         scanf("%d",&arr[i]);
     }
     int choice;
@@ -29,7 +29,7 @@ int main(){
 
         }
         int x;
-        printf(" enetr the new element :");
+        printf(" enter the new element :");
         scanf("%d",&x);
         arr[pos]=x;
         // print new array
