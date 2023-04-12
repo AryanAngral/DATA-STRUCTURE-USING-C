@@ -48,6 +48,6 @@ int main(){
     else{
         printf("thnx");
     }
-    printf("BY ARYAN ANGRAL \n 2022A1R080");
+    printf("\n BY ARYAN ANGRAL \n 2022A1R080");
     return 0;
 }
